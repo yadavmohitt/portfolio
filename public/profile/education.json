@@ -1,0 +1,20 @@
+{
+    "education":[
+        {
+            "title": "June 2016 - Dec 2021",
+            "cardTitle": "Bachelor of Computer Applications (BCA)",
+            "cardSubtitle":"Indira Gandhi National Open University (IGNOU)",
+            "icon" : {
+                "src": "images/education/logo.jpg"
+            }
+        },
+        {
+            "title": "Dec 2019 - June 2024",
+            "cardTitle": "Master of Computer Applications (MCA)",
+            "cardSubtitle":"Indira Gandhi National Open University (IGNOU)",
+            "icon" : {
+                "src": "images/education/logo.jpg"
+            }
+        }
+    ]
+}

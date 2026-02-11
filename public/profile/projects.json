@@ -1,0 +1,219 @@
+{
+  "projects": [
+    {
+      "image": "images/projects/portfolio-poster.png",
+      "title": "Dev Portfolio",
+      "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+      "links": [
+        {
+          "text": "Live",
+          "href": "https://krishnasharmaportfolio.netlify.app/"
+        }
+      ],
+      "tags": ["React", "Portfolio", "JavaScript"]
+    },
+    {
+      "image": "images/projects/mlsu_poster.png",
+      "title": "MLSU",
+      "bodyText": "- MLSU university app offers employee and student seamless access to their academic information, essential tools, and valuable resources, enhancing their university experience.",
+      "links": [
+        {
+          "text": "Employee Android Live",
+          "href": "https://play.google.com/store/apps/details?id=com.mlsu_emp"
+        },
+        {
+          "text": "Student Android Live",
+          "href": "https://play.google.com/store/apps/details?id=com.mlsu_student&hl=en"
+        },
+        {
+          "text": "Employee IOS Live",
+          "href": "https://apps.apple.com/us/app/mlsu-employee/id6749434041"
+        },
+        {
+          "text": "Student IOS Live",
+          "href": "https://apps.apple.com/us/app/mlsu-student/id6755326928"
+        }
+      ],
+      "tags": [
+        "React-Native",
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "JSON",
+        "Android",
+        "IOS"
+      ]
+    },
+    {
+      "image": "images/projects/rtu_poster.png",
+      "title": "RTU",
+      "bodyText": "- RTU university app offers employee and student seamless access to their academic information, essential tools, and valuable resources, enhancing their university experience.",
+      "links": [
+        {
+          "text": "Employee Android Live",
+          "href": "https://play.google.com/store/apps/details?id=com.rtuemployee&hl=en_IN"
+        },
+        {
+          "text": "Student Android Live",
+          "href": "https://play.google.com/store/apps/details?id=com.rtu_student&hl=en_IN"
+        },
+        {
+          "text": "Employee IOS Live",
+          "href": "https://apps.apple.com/us/app/rtu-employee/id6739345194"
+        },
+        {
+          "text": "Student IOS Live",
+          "href": "https://apps.apple.com/us/app/rtu-student/id6744920802"
+        }
+      ],
+      "tags": [
+        "React-Native",
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "JSON",
+        "Android",
+        "IOS"
+      ]
+    },
+    {
+      "image": "images/projects/luvas.png",
+      "title": "Luvas",
+      "bodyText": "- Luvas university app offers employee and student seamless access to their academic information, essential tools, and valuable resources, enhancing their university experience.",
+      "links": [
+        {
+          "text": "Employee Android Live",
+          "href": "https://play.google.com/store/apps/details?id=com.luvas_emp"
+        },
+        {
+          "text": "Student Android Live",
+          "href": "https://play.google.com/store/apps/details?id=com.luvas_student"
+        },
+        {
+          "text": "Employee IOS Live",
+          "href": "https://apps.apple.com/us/app/luvas/id6744159154"
+        },
+        {
+          "text": "Student IOS Live",
+          "href": "https://apps.apple.com/us/app/luvas-student/id6748345322"
+        }
+      ],
+      "tags": [
+        "React-Native",
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "JSON",
+        "Android",
+        "IOS"
+      ]
+    },
+      {
+      "image": "images/projects/hpu_poster.png",
+      "title": "HPU",
+      "bodyText": "- HPU university app offers employee and student seamless access to their academic information, essential tools, and valuable resources, enhancing their university experience.",
+      "links": [
+        {
+          "text": "Employee Android Live",
+          "href": "https://play.google.com/store/apps/details?id=com.hpuemp&hl=en"
+        },
+        {
+          "text": "Student Android Live",
+          "href": "https://play.google.com/store/apps/details?id=com.hpu_student&hl=en"
+        }
+      ],
+      "tags": [
+        "React-Native",
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "JSON",
+        "Android",
+        "IOS"
+      ]
+    },
+      {
+      "image": "images/projects/rpcau_poster.png",
+      "title": "RPCAU",
+      "bodyText": "- RPCAU university app offers employee and student seamless access to their academic information, essential tools, and valuable resources, enhancing their university experience.",
+      "links": [
+        {
+          "text": "Student Android Live",
+          "href": "https://play.google.com/store/apps/details?id=com.rpcau&hl=en"
+        }
+      ],
+      "tags": [
+        "React-Native",
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "JSON",
+        "Android",
+        "IOS"
+      ]
+    },
+       {
+      "image": "images/projects/crsu_poster.png",
+      "title": "CRSU",
+      "bodyText": "- CRSU university app offers employee and student seamless access to their academic information, essential tools, and valuable resources, enhancing their university experience.",
+      "links": [
+        {
+          "text": "Employee Android Live",
+          "href": "https://play.google.com/store/apps/details?id=com.crsu_emp&hl=en"
+        },
+        {
+          "text": "Student Android Live",
+          "href": "https://play.google.com/store/apps/details?id=com.crsu_student&hl=en"
+        }
+      ],
+      "tags": [
+        "React-Native",
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "JSON",
+        "Android",
+        "IOS"
+      ]
+    },
+     {
+      "image": "images/projects/bseb_poster.png",
+      "title": "BSEB",
+      "bodyText": "- BSEB university app offers employee and student seamless access to their academic information, essential tools, and valuable resources, enhancing their university experience.",
+      "links": [
+        {
+          "text": "Employee Android Live",
+          "href": "https://play.google.com/store/apps/details?id=com.bseb_employee_portal&hl=en"
+        }
+      ],
+      "tags": [
+        "React-Native",
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "JSON",
+        "Android",
+        "IOS"
+      ]
+    },
+    {
+      "image": "images/projects/genpedien.jpg",
+      "title": "Genpedien",
+      "bodyText": "- Genpedien is an advanced, on-premise AI assistant designed to help organisations transform the way they learn, operate, communicate, and manage information.",
+      "links": [
+        {
+          "text": "Web Live",
+          "href": "http://111.118.189.124/"
+        }
+      ],
+      "tags": [
+        "React",
+        "TypeScript",
+        "JSON",
+        "Tailwind",
+        "Chakra UI",
+        "Zustand"
+      ]
+    }
+  ]
+}
