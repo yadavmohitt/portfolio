@@ -13,6 +13,18 @@
       "tags": ["React", "Portfolio", "JavaScript"]
     },
     {
+      "image": "images/projects/taxindia_ai.png",
+      "title": "TaxIndia AI",
+      "bodyText": "- TaxIndia AI is an AI-powered tax research and advisory platform that helps tax professionals, businesses, and legal experts find accurate answers to GST, Income Tax, Customs, and corporate law queries. It delivers intelligent, citation-backed responses, simplifies complex tax research, and enables faster, more informed decision-making through an intuitive conversational interface.",
+      "links": [
+        {
+          "text": "Web Live",
+          "href": "https://demo-gstai.expediensolutions.in/"
+        }
+      ],
+      "tags": ["React", "TypeScript", "AI", "OpenAI", "Tailwind CSS"]
+    },
+    {
       "image": "images/projects/mlsu_poster.png",
       "title": "MLSU",
       "bodyText": "- MLSU university app offers employee and student seamless access to their academic information, essential tools, and valuable resources, enhancing their university experience.",
@@ -108,7 +120,7 @@
         "IOS"
       ]
     },
-      {
+    {
       "image": "images/projects/hpu_poster.jpg",
       "title": "HPU",
       "bodyText": "- HPU university app offers employee and student seamless access to their academic information, essential tools, and valuable resources, enhancing their university experience.",
@@ -132,7 +144,7 @@
         "IOS"
       ]
     },
-      {
+    {
       "image": "images/projects/rpcau_poster.jpg",
       "title": "RPCAU",
       "bodyText": "- RPCAU university app offers employee and student seamless access to their academic information, essential tools, and valuable resources, enhancing their university experience.",
@@ -152,7 +164,7 @@
         "IOS"
       ]
     },
-       {
+    {
       "image": "images/projects/crsu_poster.jpg",
       "title": "CRSU",
       "bodyText": "- CRSU university app offers employee and student seamless access to their academic information, essential tools, and valuable resources, enhancing their university experience.",
@@ -176,7 +188,7 @@
         "IOS"
       ]
     },
-     {
+    {
       "image": "images/projects/bseb_poster.png",
       "title": "BSEB",
       "bodyText": "- BSEB university app offers employee and student seamless access to their academic information, essential tools, and valuable resources, enhancing their university experience.",
@@ -215,5 +227,7 @@
         "Zustand"
       ]
     }
+
+    
   ]
 }
